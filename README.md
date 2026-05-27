@@ -4,7 +4,7 @@
 
 An automated workflow that monitors member subscriptions in Airtable and sends timely notifications for upcoming expiries or expired accounts.
 ## 📸
-(https://github.com/heskeyman/gym-expiry-notifications/blob/main/002workflow_preview.png?raw=true )
+https://github.com/heskeyman/gym-expiry-notifications/blob/main/002workflow_preview.png?raw=true
 
 ## 📂 Project Structure
 This repository contains the n8n workflow for:
